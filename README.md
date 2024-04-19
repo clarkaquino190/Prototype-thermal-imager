@@ -1,4 +1,4 @@
-This code uses modified sketches of the Adafruit libraries for the AMG88XX and ST7735.
+This code uses modified sketches of the Adafruit libraries for the AMG88XX and ST7735 using the Arduino IDE
 
 The parts used for this prototype are:
 nodemcu ESP8266-12E,
